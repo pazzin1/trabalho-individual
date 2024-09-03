@@ -1,0 +1,39 @@
+:root{
+    --branco-principal: #FFFFFF;
+    --cor-de-fundo: #49d2db;
+
+}
+
+
+header{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+    font-size: 30px;
+    font-weight: 400;
+}
+    
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cabeçalho-titulo{
+    text-align: center;
+
+}
+    
+.container-texto{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.imagem{
+        width: 70%;
+        margin: 15%;
+}
+.rodape{
+    background-color: #49d2db;
+    text-align: center;
+ }
